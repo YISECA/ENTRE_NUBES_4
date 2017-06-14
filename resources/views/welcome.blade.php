@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata  PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 07 de Mayo 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><font size="5"> PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 18 de Junio 2017</font></div>
 
                     </div>
 <br>
@@ -74,25 +74,29 @@
 
                     <div class="freebirdFormviewerViewHeaderDescription" dir="auto">
 
-                        <h2>Ubicación</h2>
+                        <h3>Ubicación</h3>
 
-                        <p><font size="3">Se encuentra ubicado al sur oriente de la ciudad de Bogotá, compartiendo las localidades de Usme, San Cristóbal y Rafael Uribe Uribe. Se divide en tres cerros llamado Guacamayas, Juan Rey y la Cuchilla del Gavilán para un total de 626 has. Este parque cuenta con más de 10 distintas rutas para conocer, donde prevalecen  alturas entre los 2.700 a 3.105 msnm y sus ecosistemas de Bosque Alto Andino y Sub-páramo, administrado por la Secretaria Distrital de Ambiente.</font></p>
+                        <p align="justify"><font size="3">El sendero se encuentra ubicado en la las localidades de san Cristóbal, Rafael Uribe Uribe y Usme. El parque colinda al oriente con los barrios se Juan Rey, la Belleza, la Flora y el agroparque los Soches, hacia el occidente en la parte baja se encuentra la Avenida Caracas vía Usme, barrio el Danubio, La Fiscala, Santa Marta, Santa Librada, la ladrillera Santa fe y el portal de Transmilenio de Usme, hacia el norte con el extremo sur de la avenida Décima (en donde se encuentra el cerro Guacamayas) se encuentran barrios como Cerros de Oriente, Barcelona, Las Lomas y el Parque recreativo Bosque de San Carlos, al sur con el sector rural de Usme,  la autopista al Llano que corta la cuchilla del Gavilán, barrios que pertenecen a la comuna Alfonso López: El Uval, Alfonso López Serranías, Tocaimita y Compostelas.
+                        El parque hace parte del sistema de áreas protegidas del distrito y es catalogado como parque ecológico distrital de montaña, tienes 626 hectáreas distribuidas en 3 cerros; Guacamayas, Juan rey y Cuchilla del Gavilán.</font></p>
 
-                        <h2>Descripción del recorrido </h2>
+                        <h3>Descripción del recorrido </h3>
 
-                        <p><font size="3">El recorrido da inicio en el Polideportivo de Molinos, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará con un desplazamiento hasta una de las entradas principales del parque, desde allí se realizaran varias estaciones para contar la historia y generalidades del parque. Se tomaran caminos en piedra songa, caminos de herradura, caminos adoquinados, ingresaremos a la parte administrativa, luego se llegara a la finca de Macana, donde se tomara un breve descanso y terminaremos en el Mirador de Juan Rey.</font></p>
+                        <p align="justify"><font size="3">El recorrido dará inicio en el polideportivo de molinos, allí se hará un desplazamiento de aproximadamente 10 minutos hasta la entrada del parque, donde se realizara un calentamiento de 20 minutos, se darán las indicaciones y las recomendaciones de la actividad, posteriormente se continuara con la caminata donde se pasara por los siguientes lugares:</font></p>
 
-                       <!-- <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
+                       <!-- <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>-->
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Parque Nacional</li>
-                            <li>Barrio La Merced</li>
-                            <li>Exteriores de: <strong>Museo Nacional, Parque Central Bavaria, Plaza de Toros, Torres del Parque, Planetario Distrital,Torre Colpatria y Museo de arte Moderno de Bogotá MAMBO</strong></li>
-                            <li>Parque de la Independencia</li>
-                            <li>Parque Bicentenario</li>
-                            <li>Mercado de Pulgas San Alejo</li>
+                            <li>Barrio el triunfo </li>
+                            <li>Administración del parque </li>
+                            <li>Parque de la tierra </li>
+                            <li>Humedales artificiales </li>
+                            <li>Centro de amistad con tierra  (C.A.T</li>
+                            <li>Alto de la cruz</li>
+                            <li>Mirador del relleno sanitario de Doña Juana </li>
+                            <li>Refugio </li>
+                            <li>Mirador de juan Rey </li>
                             </font>
-                        </ul>-->
+                        </ul>
                         <br>
 
                         <font size="4"><center><table width="1000">
@@ -111,7 +115,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>CAI de Juan Rey  Trav. 14 este  calle 74 sur - barrio molinos</p>
+                                            <p>Cra 5 Nº 48p sur polideportivo de Molinos II</p>
 
                                         </td>
 
@@ -127,7 +131,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 07 de Mayo de 2017</p>
+                                            <p>Domingo 18 de Junio de 2017</p>
 
                                         </td>
 
@@ -159,7 +163,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>40 Personsa</p>
+                                            <p>50 Personsa</p>
 
                                         </td>
 
@@ -175,7 +179,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>10 A 60 años</p>
+                                            <p>12 A 60 años</p>
 
                                         </td>
 
@@ -193,7 +197,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.700. a 3.105 m.s.n.m</td>
+                                            <p>3.105 m.s.n.m</td>
 
                                     </tr>
 
@@ -237,7 +241,29 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>5 Horas</p>
+                                            <p>4 horas aproximadamente</p>
+
+                                        </td>
+
+                                    </tr>
+                                         <tr valign="top">
+
+                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Como llegar</p>
+
+                                        </td>
+
+                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p><li>Alimentador de Molinos 4-3 el cual se coge en la estación de Molinos de la avenida caracas, bajarse en la 4 parada.</li><br>
+                                               <li><strong>Rutas de SITP:</strong>  </li><br>
+                                               <li><strong>Ruta P62 </strong>Bosa Santafé – Los Alpes: bajarse en polideportivo de Molinos Cra 5 Nº 48p sur </li><br>
+                                               <li><strong>Ruta 661</strong> Andalucía – Península:  bajarse en polideportivo de Molinos Cra 5 Nº 48p sur </li><br>
+                                               <li><strong>Ruta 540</strong> san Vicente – Bachue: bajarse en polideportivo de Molinos Cra 5 Nº 48p sur</li><br>
+                                               <li><strong>Ruta 614</strong> Montevideo – la fiscala: bajarse en polideportivo de Molinos Cra 5 Nº 48p sur</li><br>
+                                               <li><strong>Ruta 577</strong> el Palmar – Diana Turbay: bajarse en polideportivo de Molinos Cra 5 Nº 48p sur </li>
+                                            </p>
 
                                         </td>
 
@@ -246,7 +272,7 @@
 
                         </table></center></font>
 
-                        <h2>Recomendaciones</h2>
+                        <h3>Recomendaciones</h3>
 
                         <ul class="ul_inicio">
 
